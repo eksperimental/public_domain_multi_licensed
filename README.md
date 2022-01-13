@@ -7,10 +7,12 @@
 
 No Copyright
 
-This work is released to the Public Domain and multi-licensed under
+This work is released to the
+<a ref="license" href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain</a>
+and multi-licensed under
 the <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero Universal version 1.0 license</a>,
 the <a rel="license" href="https://spdx.org/licenses/MIT-0.html">MIT No Attribution license</a>,
-and the <a rel="license" href="https://spdx.org/licenses/0BSD.html">BSD Zero Clause license</a>.
+and the <a rel="license" href="https://opensource.org/licenses/0BSD">BSD Zero Clause license</a>.
 
 You can choose between one of them if you use this work.
 
